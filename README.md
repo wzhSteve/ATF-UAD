@@ -13,6 +13,7 @@ We have preprocessed all datasets and the link of them is shown as following, me
 https://drive.google.com/file/d/1C3H9M0NdR3DViljjPzK889n6_FEHb4qr/view?usp=share_link
 https://drive.google.com/file/d/19jNOoMbLSzAJjbUBrCE6V39oUFep0mkL/view?usp=share_link
 ```
+After download the zip files, extract them to the corresponding folders.
 
 ## Result Reproduction
 To run a model on a dataset, run the following command:
