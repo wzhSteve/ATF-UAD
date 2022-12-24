@@ -8,7 +8,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Dataset Preprocessing
-We have preprocessed all datasets and the link of them is 
+We have preprocessed all datasets and the link of them is shown as following, meanwhile we offer the checkpoints of all dataset to help you reproduce the results.
 ```bash
 https://drive.google.com/file/d/1C3H9M0NdR3DViljjPzK889n6_FEHb4qr/view?usp=share_link
 https://drive.google.com/file/d/19jNOoMbLSzAJjbUBrCE6V39oUFep0mkL/view?usp=share_link
