@@ -20,4 +20,7 @@ To run a model on a dataset, run the following command:
 ```bash
 python3 main.py --model <model> --dataset <dataset> --<process>
 ```
-where `<model>` can be either of 'ATF_UAD' and other baselines. `<dataset>` can be one of 'SMAP', 'PSM', 'SWaT', 'WADI', 'SMD', 'MSDS', 'MBA', 'UCR' and 'NAB. `<process>` can be `test` to reproduce the result based on the checkpoints and `retrain` to retrain the models.
+where `<model>` can be 'ATF_UAD' or other baselines. `<dataset>` can be one of 'SMAP', 'PSM', 'SWaT', 'WADI', 'SMD', 'MSDS', 'MBA', 'UCR' and 'NAB. `<process>` can be `test` to reproduce the result based on the checkpoints and `retrain` to retrain the models. For example:
+```bash
+python3 main.py --model ATF_UAD --dataset NAB --test
+```
