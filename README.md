@@ -1,6 +1,8 @@
 # ATF-UAD
 This repository supplements our paper "An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection"
 
+Published in Neural Networks 2023
+
 ## Installation
 This code needs Python-3.7 and pytorch 1.8.1 or higher.
 ```bash
